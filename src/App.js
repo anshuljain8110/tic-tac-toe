@@ -12,6 +12,7 @@ function App() {
       </div>
       <Undo/>
       </Data>
+      <p className='love'>Made With ❤️ By Anshul Jain</p>
     </>
   );
 }
